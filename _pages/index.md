@@ -1,5 +1,5 @@
 ---
-title: "**GitHub Pagesで始める　ホームページ制作講座**の感想"
+title: " **GitHub Pagesで始める　ホームページ制作講座** の感想"
 author: default
 permalink: /
 ---
